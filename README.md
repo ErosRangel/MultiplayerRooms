@@ -1,2 +1,2 @@
 # Multiplayer-osu-
-Comamands "!start", "!queue", "!skip"
+Commands "!start", "!queue", "!skip"
